@@ -1,0 +1,26 @@
+[
+    {
+        "name": "munim",
+        "uname": "munim123",
+        "gender": "Male",
+        "email": "munim123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "munim",
+        "uname": "ahmed123",
+        "gender": "Male",
+        "email": "munim123@gmail.com",
+        "password": "123456789",
+        "confirmpassword": "123456789"
+    },
+    {
+        "name": "tausif",
+        "uname": "tausrafi",
+        "gender": "Male",
+        "email": "tausifrafee@gmail.com",
+        "password": "taus1234",
+        "confirmpassword": "taus1234"
+    }
+]
